@@ -3,7 +3,6 @@
 Meu repositório de autenticações - DIO
 
 teste de autenticação 
-
 ✅Geral sobre Autenticações do Github
 ====================================
 
@@ -326,3 +325,5 @@ O GitHub Enterprise Server é compatível com vários serviços LDAP conhecidos,
 [https://support.github.com/](https://support.github.com/)
 
 [Documentação de autenticação - GitHub Docs]  (https://docs.github.com/pt/authentication)
+
+ESPERO TER AJUDADO
